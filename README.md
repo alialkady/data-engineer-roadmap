@@ -1,7 +1,16 @@
 # Data engineering roadmap for arabic people
 ## note
 This repo will contain my recommendation for free resources as my personal experience.
+It will be updated from time to time
 
+## table of contents
+1. [SQL](#SQL)
+2. [Python](#Python)
+3. [Data warehouse](Data-warehouse)
+4. [Linux](#Linux)
+5. [Docker](#Docker)
+6. [Big data](#Big-data)
+7. [Airflow](#Airflow)
 ## SQL
 - I think this is the best sql playlist from ITI that can provide you with massive knowledge in minimum time:
   https://youtube.com/playlist?list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t&si=_QwyU-EMF_BgBgfF
